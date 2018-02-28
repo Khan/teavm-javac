@@ -146,7 +146,7 @@
                 </artifactItem>
                 <artifactItem>
                   <groupId>org.teavm.javac</groupId>
-                  <artifactId>teavm-javac-protocol</artifactId>
+                  <artifactId>khan-drawing</artifactId>
                   <version>${project.version}</version>
                   <outputDirectory>${project.build.directory}/classlib-unpacked/</outputDirectory>
                   <includes>**</includes>
